@@ -20,6 +20,9 @@ public class day1 {
   }
 }
 
+
+
+
 // Que.2 Write a program to Print multiplication table of a given number.
 
 import java.util.*;
@@ -37,6 +40,9 @@ public class day1 {
      
   }
 }
+
+
+
 
 // Que.3 Write a program to Find factorial of a number.
 
@@ -59,6 +65,9 @@ public class day1 {
       
   }
 }
+
+
+
 
 // Que.4 Write a program to Count digits in a number.
 
