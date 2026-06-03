@@ -1,5 +1,5 @@
 import java.util.*;
-public class Que13 {
+public class que13 {
      public static void main(String[] args) {
           
         Scanner sc = new Scanner(System.in);
