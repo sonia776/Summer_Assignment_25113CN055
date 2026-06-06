@@ -122,6 +122,3 @@ GL Bajaj Summer Assignments 2026
 
 Feel free to explore the repository and use it as a reference for Java practice and assignment structure.
 
-
-Agar chaho to next message me main isko **aur bhi premium bana sakta hoon** — badges, emoji balance, GitHub stats, aur ek **more recruiter-style version** ke saath.
-::contentReference[oaicite:2]{index=2}
