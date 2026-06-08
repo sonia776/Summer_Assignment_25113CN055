@@ -8,7 +8,7 @@ This repository is designed as a learning journal as well as a coding archive â€
 
 ## ðŸ“Œ About This Repository
 
-This repository contains my daily assignment solutions organized in separate folders from **Day 1 to Day 8**.  
+This repository contains my daily assignment solutions organized in separate folders from **Day 1 to Day 10**.  
 Each day focuses on solving programming problems using **Java**, with an emphasis on logic building, clean implementation, and consistency in coding practice.
 
 The goal of this repository is not just to complete assignments, but to:
