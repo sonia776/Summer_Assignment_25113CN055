@@ -33,3 +33,4 @@ public class Character_pyramid {
         pattern(num);
     }
 }
+
