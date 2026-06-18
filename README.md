@@ -1,34 +1,12 @@
-# Sonia - GL Bajaj Summer Assignments 2026
+# ☀️ Summer Vacation Self Learning Assignments 2026
 
-A day-wise Java assignment repository built to document my summer training progress, strengthen core programming fundamentals, and practice structured problem solving through clean, well-organized code.
+A collection of Java programming solutions completed as part of the **Summer Vacation Self Learning Assignments** organized by the **Career Development Centre, GL Bajaj Institute of Technology and Management**.
 
-This repository is designed as a learning journal as well as a coding archive — each folder contains solutions for a specific day’s assignment set.
-
----
-
-## 📌 About This Repository
-
-This repository contains my daily assignment solutions organized in separate folders from **Day 1 to Day 19**.  
-Each day focuses on solving programming problems using **Java**, with an emphasis on logic building, clean implementation, and consistency in coding practice.
-
-The goal of this repository is not just to complete assignments, but to:
-
-- build strong programming fundamentals,
-- improve problem-solving confidence,
-- learn how to structure code neatly,
-- and create a trackable record of progress.
+This repository documents my daily coding journey and problem-solving practice through structured assignments inspired by interview questions frequently asked by companies like **TCS, Infosys, Wipro, Amazon, Deloitte, Capgemini, Microsoft, Adobe, Paytm, Accenture, and Cognizant**.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Language:** Java
-- **IDE:** VS Code / IntelliJ IDEA / Eclipse
-- **Version Control:** Git & GitHub
-
----
-
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```text
 Summer_Assignment_25113CN055/
@@ -39,84 +17,130 @@ Summer_Assignment_25113CN055/
 ├── day-5/
 ├── day-6/
 ├── day-7/
-└── day-8/ 
+├── day-8/
+├── day-9/
+├── day-10/
+├── day-11/
+├── day-12/
+├── day-13/
+├── day-14/
+├── day-15/
+├── day-16/
+├── day-17/
+├── day-18/
+├── day-19/
+└── (continuing...)
+```
 
-Each folder contains the Java files for that day’s assignment set.
+Each folder contains the Java programs assigned for that particular day.
 
-🚀 How to Run the Code
-Prerequisites
+---
 
-Make sure Java is installed on your system.
+## 🚀 Progress
 
-Check installation:
+* ✅ Completed **Day 1 – Day 19**
+* ✅ Solved **76 Java problems**
+* 🔄 Continuing the 30-Day Assignment Series
 
-java -version
-javac -version
+---
 
-Compile and Run
+## 📚 Topics Covered
 
-Go to the required day folder and run:
+### 🔹 Number Programs
 
+* Factorial
+* Prime Numbers
+* GCD & LCM
+* Fibonacci Series
+* Armstrong Numbers
+* Perfect Numbers
+* Bit Manipulation
+
+### 🔹 Recursion
+
+* Recursive Factorial
+* Recursive Fibonacci
+* Sum of Digits
+* Reverse Number
+
+### 🔹 Pattern Problems
+
+* Half Pyramid
+* Number Patterns
+* Character Patterns
+* Pyramid Patterns
+
+### 🔹 Functions
+
+* Prime Check
+* Factorial
+* Fibonacci
+* Palindrome
+* Armstrong Number
+
+### 🔹 Arrays
+
+* Searching Algorithms
+* Array Rotation
+* Duplicate Elements
+* Missing Number
+* Merge Arrays
+* Union & Intersection
+* Sorting Algorithms
+* Binary Search
+
+### 🔹 Matrix Operations
+
+* Matrix Addition
+* Matrix Subtraction
+* Transpose Matrix
+* Diagonal Sum
+
+---
+
+## ⚙️ Run Locally
+
+Compile and execute any Java file:
+
+```bash
 javac FileName.java
 java FileName
+```
 
-Example
+Example:
 
+```bash
 cd day-1
 javac Que1.java
 java Que1
+```
 
-📚 Day-wise Progress
+---
 
-| Day   | Folder  | Description                          |
-| ----- | ------- | ------------------------------------ |
-| Day 1 | `day-1` | Introductory assignment solutions    |
-| Day 2 | `day-2` | Practice set for strengthening logic |
-| Day 3 | `day-3` | Continued problem-solving exercises  |
-| Day 4 | `day-4` | Structured Java programming tasks    |
-| Day 5 | `day-5` | More advanced practice problems      |
-| Day 6 | `day-6` | Assignment continuation              |
-| Day 7 | `day-7` | Additional coding tasks              |
-| Day 8 | `day-8` | Final day-wise assignment set        |
+## 🎯 Learning Outcomes
 
-✨ What This Repository Represents
+Through these assignments, I strengthened my understanding of:
 
-This repository reflects:
+* Java Fundamentals
+* Problem Solving
+* Recursion
+* Arrays and Matrix Operations
+* Searching and Sorting Algorithms
+* Code Organization
+* Debugging Skills
+* Git & GitHub Workflow
 
-consistent daily coding practice,
-better understanding of Java syntax and logic,
-improved debugging and file organization,
-and a clean GitHub-based progress archive.
+---
 
-It is also a good reference for reviewing my development journey over time.
+## 👩‍💻 Author
 
-🎯 Learning Outcomes
+**Sonia**
+B.Tech CSE (AIML)
+GL Bajaj Institute of Technology and Management
 
-Through these assignments, I practiced:
+---
 
-writing and running Java programs,
-organizing code in a folder-wise structure,
-solving logic-based problems step by step,
-using Git and GitHub for version control,
-and maintaining a consistent development workflow.
-🧩 Why This Repository Matters
-
-This is more than just an assignment submission repository.
-
-It shows:
-
-how I approach problem solving,
-how I structure my code,
-how I track progress daily,
-and how I keep improving with every assignment.
-📌 Notes
-Each folder contains day-specific solutions.
-File names may vary depending on the question number.
-This repository will continue to grow as more assignments are added.
-👩‍💻 Author
-
-Sonia
-GL Bajaj Summer Assignments 2026
+⭐ **Consistent progress, one problem at a time.**
 
 ⭐ If you found this useful
 
