@@ -21,6 +21,7 @@ public class Que5 {
         int a = sc.nextInt();
         int result = reverse(a);
         System.out.println("Reverse of a number is: " + result);
+         sc.close();
     }
 
 }

@@ -14,6 +14,6 @@ public class Que4 {
     }
 
     System.out.println("Number of digits : " + count);
-
+ sc.close();
   }
 }

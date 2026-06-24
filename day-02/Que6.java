@@ -20,6 +20,7 @@ public class Que6 {
         int a = sc.nextInt();
         int result = Sum(a);
         System.out.println("Sum of the digits is: " + result);
+         sc.close();
     }
 
 }

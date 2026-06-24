@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class Que7 {
 
     public static void Palindrome(int a) {
@@ -21,5 +21,6 @@ public class Que7 {
 
         Palindrome(123);
         Palindrome(121);
+        
     }
 }

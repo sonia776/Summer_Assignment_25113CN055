@@ -14,6 +14,6 @@ public class Que3 {
     } 
 
     System.out.println("facorial of " + number + " is : " + Factorial);
-      
+       sc.close();
   }
 }

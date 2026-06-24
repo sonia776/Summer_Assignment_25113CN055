@@ -15,6 +15,7 @@ public class Que1 {
    }
 
    System.out.println("The sum is : " + Sum);
-
+     
+   sc.close();
   }
 }

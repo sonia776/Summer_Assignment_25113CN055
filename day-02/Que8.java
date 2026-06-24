@@ -20,6 +20,7 @@ public class Que8 {
         int a = sc.nextInt();
         int result = product(a);
         System.out.println("product of a number is: " + result);
+         sc.close();
     }
 
 }

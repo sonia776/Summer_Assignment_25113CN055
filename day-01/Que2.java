@@ -10,6 +10,6 @@ public class Que2 {
       int table = number*i;
       System.out.println(number+ "*" + i + "="+ table);
     } 
-     
+      sc.close();
   }
 }
