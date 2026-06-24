@@ -45,7 +45,7 @@ Each folder contains the Java programs assigned for that particular day.
 ## 🚀 Progress
 
 * ✅ Completed **Day 1 – Day 25**
-* ✅ Solved **96 Java problems**
+* ✅ Solved **100 Java problems**
 * 🔄 Continuing the 30-Day Assignment Series
 
 ---
