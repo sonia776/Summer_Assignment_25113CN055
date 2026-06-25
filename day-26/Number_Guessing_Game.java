@@ -1,13 +1,11 @@
-import java.util.Random;
 import java.util.Scanner;
 
 public class Number_Guessing_Game {
     public static void main(String[] args) {
 
-        Random random = new Random();
         Scanner sc = new Scanner(System.in);
 
-        int secretNumber = random.nextInt(100) + 1;
+        int secretNumber = (int)Math.floor(Math.random()*100 +1 );
 
         int guess;
 
