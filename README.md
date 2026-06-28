@@ -38,6 +38,7 @@ Summer_Assignment_25113CN055/
 |── day-26/
 |── day-27/
 |── day-28/
+|── day-29/
 |── (continuing...)
 ```
 
@@ -47,7 +48,7 @@ Each folder contains the Java programs assigned for that particular day.
 
 ## 🚀 Progress
 
-* ✅ Completed **Day 1 – Day 28**
+* ✅ Completed **Day 1 – Day 29**
 * ✅ Solved **112 Java problems**
 * 🔄 Continuing the 30-Day Assignment Series
 
