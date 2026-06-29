@@ -1,158 +1,217 @@
 # ☀️ Summer Vacation Self Learning Assignments 2026
 
-A collection of Java programming solutions completed as part of the **Summer Vacation Self Learning Assignments** organized by the **Career Development Centre, GL Bajaj Institute of Technology and Management**.
+<div align="center">
 
-This repository documents my daily coding journey and problem-solving practice through structured assignments inspired by interview questions frequently asked by companies like **TCS, Infosys, Wipro, Amazon, Deloitte, Capgemini, Microsoft, Adobe, Paytm, Accenture, and Cognizant**.
+### 🚀 30 Days • 120 Java Programs • One Goal: Consistent Learning
+
+**Career Development Centre**
+**GL Bajaj Institute of Technology and Management**
+
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge\&logo=openjdk)
+![Progress](https://img.shields.io/badge/Progress-100%25-success?style=for-the-badge)
+![Days](https://img.shields.io/badge/Days-30-blue?style=for-the-badge)
+![Programs](https://img.shields.io/badge/Programs-120-red?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📂 Repository Structure
+## 📖 About
+
+This repository contains my complete solutions for the **30-Day Summer Vacation Self Learning Assignments** conducted by the **Career Development Centre, GL Bajaj Institute of Technology and Management**.
+
+The assignment series is designed around interview-oriented Java programming problems commonly asked in companies such as **TCS, Infosys, Wipro, Amazon, Deloitte, Capgemini, Microsoft, Adobe, Paytm, Accenture, and Cognizant**.
+
+The goal of this repository is to document my learning journey, improve problem-solving skills, and maintain consistency through daily coding.
+
+---
+
+# 📂 Repository Structure
 
 ```text
 Summer_Assignment_25113CN055/
+│
 ├── day-1/
 ├── day-2/
 ├── day-3/
-├── day-4/
-├── day-5/
-├── day-6/
-├── day-7/
-├── day-8/
-├── day-9/
-├── day-10/
-├── day-11/
-├── day-12/
-├── day-13/
-├── day-14/
-├── day-15/
-├── day-16/
-├── day-17/
-├── day-18/
-├── day-19/
-|── day-20/
-|── day-21/
-|── day-22/
-|── day-23/
-|── day-24/
-|── day-25/
-|── day-26/
-|── day-27/
-|── day-28/
-|── day-29/
-|── (continuing...)
+│      .
+│      .
+│
+├── day-28/
+├── day-29/
+└── day-30/
 ```
 
-Each folder contains the Java programs assigned for that particular day.
+Each folder contains the Java programs assigned for that day's practice.
 
 ---
 
-## 🚀 Progress
+# 📊 Repository Progress
 
-* ✅ Completed **Day 1 – Day 29**
-* ✅ Solved **116 Java problems**
-* 🔄 Continuing the 30-Day Assignment Series
+| Status              | Details                |
+| ------------------- | ---------------------- |
+| ✅ Duration          | 30 Days                |
+| ✅ Programs Solved   | 120                    |
+| ✅ Language          | Java                   |
+| ✅ Completion        | 100%                   |
+| ✅ Repository Status | Completed Successfully |
 
 ---
 
-## 📚 Topics Covered
+# 📚 Topics Covered
 
-### 🔹 Number Programs
+### 🔢 Number Programs
 
 * Factorial
 * Prime Numbers
+* Armstrong Numbers
+* Perfect & Strong Numbers
 * GCD & LCM
 * Fibonacci Series
-* Armstrong Numbers
-* Perfect Numbers
+* Number System Conversion
 * Bit Manipulation
 
-### 🔹 Recursion
+### 🔁 Recursion
 
 * Recursive Factorial
 * Recursive Fibonacci
 * Sum of Digits
 * Reverse Number
 
-### 🔹 Pattern Problems
+### 🎨 Pattern Printing
 
-* Half Pyramid
+* Star Patterns
 * Number Patterns
 * Character Patterns
 * Pyramid Patterns
+* Hollow Patterns
 
-### 🔹 Functions
+### ⚙️ Functions
 
 * Prime Check
-* Factorial
-* Fibonacci
 * Palindrome
+* Fibonacci
 * Armstrong Number
+* Perfect Number
 
-### 🔹 Arrays
+### 📦 Arrays
 
-* Searching Algorithms
-* Array Rotation
-* Duplicate Elements
-* Missing Number
-* Merge Arrays
-* Union & Intersection
-* Sorting Algorithms
+* Linear Search
 * Binary Search
+* Bubble Sort
+* Selection Sort
+* Array Rotation
+* Missing Number
+* Duplicate Elements
+* Union & Intersection
+* Merge Arrays
+* Frequency Problems
 
-### 🔹 Matrix Operations
+### 🧮 Matrix Operations
 
 * Matrix Addition
 * Matrix Subtraction
+* Matrix Multiplication
 * Transpose Matrix
+* Symmetric Matrix
+* Row & Column Sum
 * Diagonal Sum
+
+### 📝 Strings
+
+* Reverse String
+* Palindrome
+* Anagram
+* Character Frequency
+* String Rotation
+* Compression
+* Longest Word
+* Duplicate Removal
+
+### 💻 Mini Projects
+
+* ATM Simulation
+* Quiz Application
+* Student Management System
+* Employee Management System
+* Library Management System
+* Bank Account System
+* Contact Management System
+* Inventory Management System
+* Menu Driven Applications
+* Mini Project using Arrays, Strings & Functions
 
 ---
 
-## ⚙️ Run Locally
+# ▶️ How to Run
 
-Compile and execute any Java file:
+Compile the program
 
 ```bash
 javac FileName.java
+```
+
+Run the program
+
+```bash
 java FileName
 ```
 
-Example:
+Example
 
 ```bash
-cd day-1
-javac Que1.java
-java Que1
+cd day-15
+javac Que57.java
+java Que57
 ```
 
 ---
 
-## 🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
-Through these assignments, I strengthened my understanding of:
+Throughout these assignments, I gained practical experience in:
 
-* Java Fundamentals
-* Problem Solving
-* Recursion
-* Arrays and Matrix Operations
-* Searching and Sorting Algorithms
-* Code Organization
-* Debugging Skills
-* Git & GitHub Workflow
+* ✅ Java Fundamentals
+* ✅ Object-Oriented Programming Basics
+* ✅ Problem Solving
+* ✅ Algorithmic Thinking
+* ✅ Searching & Sorting Algorithms
+* ✅ Arrays & Strings
+* ✅ Matrix Manipulation
+* ✅ Recursion
+* ✅ Debugging
+* ✅ Clean Code Organization
+* ✅ Git & GitHub Workflow
 
 ---
 
-## 👩‍💻 Author
+# 🌟 Highlights
+
+* 📅 Completed **30 consecutive days** of coding.
+* 💯 Solved **120 Java programming problems**.
+* 📈 Improved logical thinking and debugging skills.
+* 🏆 Built multiple console-based mini projects.
+* 📂 Maintained a clean day-wise project structure.
+* 🚀 Strengthened interview-oriented programming concepts.
+
+---
+
+# 👩‍💻 Author
 
 **Sonia**
-B.Tech CSE (AIML)
-GL Bajaj Institute of Technology and Management
+
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
+
+🏫 GL Bajaj Institute of Technology and Management
 
 ---
 
-⭐ **Consistent progress, one problem at a time.**
+<div align="center">
 
-⭐ If you found this useful
+### ⭐ Thank you for visiting this repository!
 
-Feel free to explore the repository and use it as a reference for Java practice and assignment structure.
+If you found this repository helpful, consider **⭐ starring it**.
 
+**"Consistency is the key to mastery. Every solved problem is one step closer to becoming a better developer." 🚀**
+
+</div>
