@@ -5,7 +5,7 @@ public class Intersection {
         int arr1[] = { 1, 2, 3 };
         int arr2[] = { 4, 2, 6, 3 };
 
-        System.out.println("Intersection Elements:");
+        System.out.println(" Intersection Elements:");
         for (int i = 0; i < arr1.length; i++) {
             for (int j = 0; j < arr2.length; j++) {
                 if (arr1[i] == arr2[j]) {
