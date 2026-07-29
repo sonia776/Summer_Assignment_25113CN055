@@ -21,7 +21,7 @@ public class Sum_and_Average {
         int arr[] = new int[5];
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the 5 array elements: ");
+        System.out.println(" Enter the 5 array elements: ");
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
