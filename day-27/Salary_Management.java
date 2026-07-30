@@ -11,7 +11,7 @@ public class Salary_Management {
 
         do {
             System.out.println("\n===== Salary Management System =====");
-            System.out.println("1. Enter Employee Details");
+            System.out.println("1. Enter Employee Details ");
             System.out.println("2. Display Employee Details");
             System.out.println("3. Exit");
             System.out.print("Enter your choice: ");
