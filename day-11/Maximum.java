@@ -17,7 +17,7 @@ public class Maximum {
 
       Scanner sc = new Scanner(System.in);
 
-      System.out.println("Enter the First number : ");
+      System.out.println(" Enter the First number : ");
       int num1 = sc.nextInt();
 
       System.out.println("Enter the Second number : ");
