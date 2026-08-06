@@ -5,7 +5,7 @@ public class ques27 {
         if (num == 0) {
             return 0;
         }
-        return (num % 10) + sumOFdigits( num /= 10);
+        return (num % 10) + sumOFdigits( num /= 10 );
     }
 
     public static void main(String[] args) {
