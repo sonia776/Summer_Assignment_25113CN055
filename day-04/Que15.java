@@ -7,7 +7,7 @@ public class Que15{
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
 
-        int digits = 0 ,
+        int digits = 0 , sum
        
         int temp = num;
         while (temp > 0) {
