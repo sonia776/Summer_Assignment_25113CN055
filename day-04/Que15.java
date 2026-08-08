@@ -8,7 +8,7 @@ public class Que15{
         int num = sc.nextInt();
 
         int digits = 0 ,
-         sum = 0;
+       
         int temp = num;
         while (temp > 0) {
             digits++;
