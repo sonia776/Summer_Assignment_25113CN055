@@ -2,7 +2,7 @@ public class que20 {
 
     public static void largestPrimefactor(int num){
         if (num<2) {
-            System.out.println(" No prime factors");
+            System.out.println(" No prime factors ");
             return ;
         }
 
