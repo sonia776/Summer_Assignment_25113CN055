@@ -13,7 +13,7 @@ public class Right_Rotated_Array {
 
           System.out.println("Right Rotated Array : ");
           for (int num : nums) {
-               System.out.print(num + " ");
+               System.out.print(num + "  ");
           }
      }
 }
