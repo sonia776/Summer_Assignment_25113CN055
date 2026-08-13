@@ -14,6 +14,6 @@ public class Que11{
         int number2 = 18;
        
         int gcd = findGCD(number1, number2);
-        System.out.println("The GCD of " + number1 + " and " + number2 + " is: " + gcd);
+        System.out.println(" The GCD of " + number1 + " and " + number2 + " is: " + gcd);
     }
 }
