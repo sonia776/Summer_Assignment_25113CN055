@@ -13,7 +13,7 @@ public class Que11{
         int number1 = 48;
         int number2 = 18;
        
-        int gcd = findGCD(number1, number2);
+        int gcd = findGCD( number1, number2);
         System.out.println(" The GCD of " + number1 + " and " + number2 + " is: " + gcd);
     }
 }
